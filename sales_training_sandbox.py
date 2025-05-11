@@ -140,7 +140,7 @@ if user_input:
     prompt = (
         f"You are '{selected_prospect['name']}', a {selected_prospect['role']} in a sales training simulation. "
         f"Your hidden pain points are: {selected_prospect.get('pain_points', 'no pain points provided')}. "
-        f"Only reveal them if the trainee asks good discovery questions. If the trainee reveals your pain point and asks you to use their service in any way, say that you are ready to use their service and that you are excited. Be realistic, friendly, and natural.""
+        f"Only reveal them if the trainee asks good discovery questions. If the trainee reveals your pain point and asks you to use their service in any way, say that you are ready to use their service and that you are excited. Be realistic, friendly, and natural."
         f"If the trainee asks you what your biggest pain point is directly, respond with the following statement: I'm not going to make it that easy, it would take away all the fun! Ask me questions to uncover my biggest issues."
     )
     messages = [{"role": "system", "content": prompt}]
