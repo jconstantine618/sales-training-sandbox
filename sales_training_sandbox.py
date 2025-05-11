@@ -104,7 +104,7 @@ if "trainee_name" not in st.session_state:
     st.session_state.trainee_name = ""
 
 st.set_page_config(page_title="Sales Training Chatbot", layout="wide")
-st.markdown("### Sales Training Chatbot")
+st.markdown("# Sales Training Chatbot")
 
 # Sidebar: trainee info
 with st.sidebar:
