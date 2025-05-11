@@ -141,7 +141,7 @@ p = st.session_state.selected_prospect
 st.markdown(
     f"""
 <div style="border:1px solid #ddd; border-radius:10px; padding:1rem; background:#f8f8f8;">
-  <strong>Persona:</strong><br/>
+  <strong>Prospect:</strong><br/>
   <strong>Company Name:</strong> {p['company']}<br/>
   <strong>Name:</strong> {p['name']}<br/>
   <strong>Role:</strong> {p['role']}
