@@ -1,4 +1,4 @@
-import streamlit as st
+oimport streamlit as st
 import json
 import sqlite3
 from pathlib import Path
@@ -6,7 +6,7 @@ from openai import OpenAI
 from datetime import datetime
 
 # CONFIG
-PROSPECTS_FILE = "data/prospects_grassnerds.json"
+PROSPECTS_FILE = "data/prospects.json"
 DB_FILE = str(Path(__file__).parent / "leaderboard.db")  # Persistent path
 MODEL_NAME = "gpt-4o"
 MAX_SCORE = 100
@@ -140,7 +140,7 @@ if user_input:
     prompt = (
         f"You are '{selected_prospect['name']}', a {selected_prospect['role']} in a sales training simulation. "
         f"Your hidden pain points are: {selected_prospect.get('pain_points', 'no pain points provided')}. "
-        f"Only reveal them if the trainee asks good discovery questions. Be realistic, friendly, and natural."
+        f"Only reveal them if the trainee asks good discovery questions. If the trainee reveals your pain point and asks you to use their service in any way, say that you are ready to use their service and that you are excited. Be realistic, friendly, and natural."
     )
     messages = [{"role": "system", "content": prompt}]
     for speaker, text in st.session_state.history:
