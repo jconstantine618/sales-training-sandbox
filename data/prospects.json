@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Alex Iverson",
+    "company": "ITHub",
+    "industry": "IT Managed Services",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Alex Hughes",
+    "company": "CommercialWorks",
+    "industry": "Commercial Landscaping",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Morgan Adams",
+    "company": "BusinessPros",
+    "industry": "Business Coaching",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Harper Hughes",
+    "company": "TelecomPros",
+    "industry": "Telecom Reseller",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Parker Diaz",
+    "company": "LogisticsExperts",
+    "industry": "Logistics & Courier",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Onboarding new reps takes too long and drains senior sellers\u2019 time"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Riley Adams",
+    "company": "VideoPartners",
+    "industry": "Video Production",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Harper Foster",
+    "company": "DigitalExperts",
+    "industry": "Digital Marketing",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Casey Keller",
+    "company": "DigitalExperts",
+    "industry": "Digital Marketing",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Alex Adams",
+    "company": "HRStudio",
+    "industry": "HR Consulting",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Jordan Reynolds",
+    "company": "OfficeStudio",
+    "industry": "Office Supply Distribution",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Parker Iverson",
+    "company": "AccountingHub",
+    "industry": "Accounting & Bookkeeping",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Rowan Griffin",
+    "company": "CommercialGroup",
+    "industry": "Commercial Cleaning",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Finley Lawson",
+    "company": "WebHub",
+    "industry": "Web Design",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Blake Jordan",
+    "company": "RecruitmentHub",
+    "industry": "Recruitment Agency",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Emerson Carr",
+    "company": "CybersecuritySolutions",
+    "industry": "Cybersecurity Consulting",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Reese Bennett",
+    "company": "CommercialSolutions",
+    "industry": "Commercial Cleaning",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Harper Shaw",
+    "company": "WebStudio",
+    "industry": "Web Design",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Jamie Bennett",
+    "company": "HRGroup",
+    "industry": "HR Consulting",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Jordan Diaz",
+    "company": "LegalPros",
+    "industry": "Legal Services Boutique",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Parker Hughes",
+    "company": "CorporatePartners",
+    "industry": "Corporate Training",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Reese Keller",
+    "company": "LegalWorks",
+    "industry": "Legal Services Boutique",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Lack of shared language around customer needs causing internal friction"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Casey Lawson",
+    "company": "RecruitmentPros",
+    "industry": "Recruitment Agency",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Sam Lawson",
+    "company": "LogisticsHub",
+    "industry": "Logistics & Courier",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Lack of shared language around customer needs causing internal friction"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Skyler Iverson",
+    "company": "CommercialHub",
+    "industry": "Commercial Printing",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Dakota Carr",
+    "company": "TelecomHub",
+    "industry": "Telecom Reseller",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Lack of shared language around customer needs causing internal friction"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Parker Reynolds",
+    "company": "AccountingExperts",
+    "industry": "Accounting & Bookkeeping",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Parker Thompson",
+    "company": "VideoWorks",
+    "industry": "Video Production",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Lack of shared language around customer needs causing internal friction"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Quinn Iverson",
+    "company": "IndustrialWorks",
+    "industry": "Industrial Equipment Leasing",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Lack of shared language around customer needs causing internal friction"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Skyler Griffin",
+    "company": "VideoWorks",
+    "industry": "Video Production",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Casey Morris",
+    "company": "CybersecuritySolutions",
+    "industry": "Cybersecurity Consulting",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Jordan Adams",
+    "company": "ITPartners",
+    "industry": "IT Managed Services",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Rowan Patel",
+    "company": "PayrollHub",
+    "industry": "Payroll Services",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Quinn Hughes",
+    "company": "RecruitmentSolutions",
+    "industry": "Recruitment Agency",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Onboarding new reps takes too long and drains senior sellers\u2019 time"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Dakota Hughes",
+    "company": "BusinessWorks",
+    "industry": "Business Coaching",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Casey Carr",
+    "company": "WebPartners",
+    "industry": "Web Design",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Blake Thompson",
+    "company": "LegalSolutions",
+    "industry": "Legal Services Boutique",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Parker Patel",
+    "company": "AccountingWorks",
+    "industry": "Accounting & Bookkeeping",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Sales team frequently over\u2011promises features, causing delivery bottlenecks"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Dakota Owens",
+    "company": "RecruitmentPartners",
+    "industry": "Recruitment Agency",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Jordan Iverson",
+    "company": "RecruitmentPros",
+    "industry": "Recruitment Agency",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Finley Adams",
+    "company": "DigitalPros",
+    "industry": "Digital Marketing",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Casey Griffin",
+    "company": "IndustrialHub",
+    "industry": "Industrial Equipment Leasing",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Sales team frequently over\u2011promises features, causing delivery bottlenecks"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Sam Adams",
+    "company": "OfficeWorks",
+    "industry": "Office Supply Distribution",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Harper Ellis",
+    "company": "CommercialGroup",
+    "industry": "Commercial Landscaping",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Casey Bennett",
+    "company": "TelecomSolutions",
+    "industry": "Telecom Reseller",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Onboarding new reps takes too long and drains senior sellers\u2019 time"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Morgan Griffin",
+    "company": "DigitalStudio",
+    "industry": "Digital Marketing",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Jordan Shaw",
+    "company": "CommercialSolutions",
+    "industry": "Commercial Landscaping",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Sam Carr",
+    "company": "CommercialPartners",
+    "industry": "Commercial Landscaping",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Reese Shaw",
+    "company": "DigitalStudio",
+    "industry": "Digital Marketing",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Finley Carr",
+    "company": "CommercialPros",
+    "industry": "Commercial Printing",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Dakota Thompson",
+    "company": "LogisticsHub",
+    "industry": "Logistics & Courier",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Dakota Ellis",
+    "company": "CommercialWorks",
+    "industry": "Commercial Cleaning",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Parker Morris",
+    "company": "LegalPartners",
+    "industry": "Legal Services Boutique",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Avery Owens",
+    "company": "WebHub",
+    "industry": "Web Design",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Taylor Thompson",
+    "company": "CommercialSolutions",
+    "industry": "Commercial Printing",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Cameron Bennett",
+    "company": "CommercialPartners",
+    "industry": "Commercial Printing",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Onboarding new reps takes too long and drains senior sellers\u2019 time"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Taylor Patel",
+    "company": "WebStudio",
+    "industry": "Web Design",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Onboarding new reps takes too long and drains senior sellers\u2019 time"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Emerson Reynolds",
+    "company": "LegalHub",
+    "industry": "Legal Services Boutique",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Sam Ellis",
+    "company": "PayrollWorks",
+    "industry": "Payroll Services",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Cameron Diaz",
+    "company": "LegalPros",
+    "industry": "Legal Services Boutique",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Skyler Reynolds",
+    "company": "ArchitecturePartners",
+    "industry": "Architecture Firm",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Lack of shared language around customer needs causing internal friction"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Harper Keller",
+    "company": "IndustrialHub",
+    "industry": "Industrial Equipment Leasing",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Avery Diaz",
+    "company": "TelecomSolutions",
+    "industry": "Telecom Reseller",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Rowan Morris",
+    "company": "CommercialWorks",
+    "industry": "Commercial Cleaning",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Skyler Patel",
+    "company": "DigitalGroup",
+    "industry": "Digital Marketing",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Avery Iverson",
+    "company": "CommercialGroup",
+    "industry": "Commercial Cleaning",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Emerson Owens",
+    "company": "CommercialPartners",
+    "industry": "Commercial Cleaning",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Morgan Jordan",
+    "company": "CommercialPros",
+    "industry": "Commercial Printing",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Morgan Morris",
+    "company": "BusinessExperts",
+    "industry": "Business Coaching",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Emerson Adams",
+    "company": "HRWorks",
+    "industry": "HR Consulting",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Avery Foster",
+    "company": "WebGroup",
+    "industry": "Web Design",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Harper Iverson",
+    "company": "CommercialHub",
+    "industry": "Commercial Cleaning",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Jordan Foster",
+    "company": "PayrollWorks",
+    "industry": "Payroll Services",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Quinn Thompson",
+    "company": "ITHub",
+    "industry": "IT Managed Services",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Morgan Shaw",
+    "company": "TelecomStudio",
+    "industry": "Telecom Reseller",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Sales team frequently over\u2011promises features, causing delivery bottlenecks"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Skyler Adams",
+    "company": "WebPros",
+    "industry": "Web Design",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Avery Carr",
+    "company": "CorporateStudio",
+    "industry": "Corporate Training",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Skyler Carr",
+    "company": "ITExperts",
+    "industry": "IT Managed Services",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Jamie Patel",
+    "company": "VideoPros",
+    "industry": "Video Production",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Onboarding new reps takes too long and drains senior sellers\u2019 time"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Alex Lawson",
+    "company": "CommercialWorks",
+    "industry": "Commercial Cleaning",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Lack of shared language around customer needs causing internal friction"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Rowan Hughes",
+    "company": "CommercialStudio",
+    "industry": "Commercial Cleaning",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Onboarding new reps takes too long and drains senior sellers\u2019 time"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Cameron Reynolds",
+    "company": "LegalPartners",
+    "industry": "Legal Services Boutique",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Harper Nguyen",
+    "company": "CybersecurityPartners",
+    "industry": "Cybersecurity Consulting",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Sales team frequently over\u2011promises features, causing delivery bottlenecks"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Dakota Iverson",
+    "company": "TelecomHub",
+    "industry": "Telecom Reseller",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Cameron Ellis",
+    "company": "CommercialSolutions",
+    "industry": "Commercial Landscaping",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Cameron Griffin",
+    "company": "LogisticsStudio",
+    "industry": "Logistics & Courier",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Reese Nguyen",
+    "company": "BusinessSolutions",
+    "industry": "Business Coaching",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Team missing quota for three consecutive quarters and morale is low"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Avery Thompson",
+    "company": "BusinessPros",
+    "industry": "Business Coaching",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Reese Carr",
+    "company": "OfficeHub",
+    "industry": "Office Supply Distribution",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Alex Nguyen",
+    "company": "BusinessExperts",
+    "industry": "Business Coaching",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Avery Adams",
+    "company": "IndustrialPartners",
+    "industry": "Industrial Equipment Leasing",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Finley Shaw",
+    "company": "RecruitmentPartners",
+    "industry": "Recruitment Agency",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Blake Ellis",
+    "company": "CommercialGroup",
+    "industry": "Commercial Cleaning",
+    "role": "Owner",
+    "pain_points": [
+      "Unsure how to leverage AI tools to scale sales without hiring more staff"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Dakota Jordan",
+    "company": "LogisticsGroup",
+    "industry": "Logistics & Courier",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Sales team frequently over\u2011promises features, causing delivery bottlenecks"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Dakota Underwood",
+    "company": "OfficeWorks",
+    "industry": "Office Supply Distribution",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Poor handoff between sales and operations leading to client churn"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Jamie Nguyen",
+    "company": "WebWorks",
+    "industry": "Web Design",
+    "role": "Owner",
+    "pain_points": [
+      "Inconsistent messaging across the sales process leading to stalled growth"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Casey Shaw",
+    "company": "RecruitmentExperts",
+    "industry": "Recruitment Agency",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Jordan Jordan",
+    "company": "LogisticsWorks",
+    "industry": "Logistics & Courier",
+    "role": "Sales Manager",
+    "pain_points": [
+      "Difficulty tracking pipeline health and forecasting accurately"
+    ],
+    "solution": "Adopt the gamified role\u2011play platform to accelerate onboarding, reinforce best\u2011practice discovery questions, and give real\u2011time analytics for accurate forecasting."
+  },
+  {
+    "name": "Taylor Ellis",
+    "company": "AccountingPartners",
+    "industry": "Accounting & Bookkeeping",
+    "role": "Owner",
+    "pain_points": [
+      "Lacks formal sales background and struggles to coach the team effectively"
+    ],
+    "solution": "Implement the AI\u2011powered Sales Training Platform to provide expert\u2011level coaching, standardized messaging, and data\u2011driven insights without adding headcount."
+  },
+  {
+    "name": "Parker Nguyen",
+    "company": "CommercialPartners",
+    "industry": "Commercial Landscaping",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Sales team frequently over\u2011promises features, causing delivery bottlenecks"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  },
+  {
+    "name": "Quinn Foster",
+    "company": "TelecomExperts",
+    "industry": "Telecom Reseller",
+    "role": "Operations Manager",
+    "pain_points": [
+      "Sales team frequently over\u2011promises features, causing delivery bottlenecks"
+    ],
+    "solution": "Use the scenario\u2011based training suite to align sales promises with operational capabilities and create a feedback loop that reduces post\u2011sale friction."
+  }
+]
