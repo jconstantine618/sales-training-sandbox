@@ -136,12 +136,15 @@ selected_label = st.selectbox("Select Prospect", labels)
 idx = labels.index(selected_label)
 st.session_state.selected_prospect = prospects[idx]
 
-# Show Persona Card
+# Show Persona Card (with labels)
 p = st.session_state.selected_prospect
 st.markdown(
     f"""
 <div style="border:1px solid #ddd; border-radius:10px; padding:1rem; background:#f8f8f8;">
-  <strong>Persona:</strong> {p['company']} — {p['name']} ({p['role']}) — {p['industry']}
+  <strong>Persona:</strong><br/>
+  <strong>Company Name:</strong> {p['company']}<br/>
+  <strong>Name:</strong> {p['name']}<br/>
+  <strong>Role:</strong> {p['role']}
 </div>
 """,
     unsafe_allow_html=True
