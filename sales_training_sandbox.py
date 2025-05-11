@@ -1,4 +1,4 @@
-oimport streamlit as st
+import streamlit as st
 import json
 import sqlite3
 from pathlib import Path
